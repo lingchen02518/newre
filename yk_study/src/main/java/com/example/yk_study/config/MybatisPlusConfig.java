@@ -22,5 +22,6 @@ public class MybatisPlusConfig {
     public InsertBatchSqlInjector easySqlInjector () {
         return new InsertBatchSqlInjector();
     }*/
+    //trying to add something new
 
 }
